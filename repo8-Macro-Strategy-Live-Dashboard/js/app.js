@@ -2,7 +2,7 @@
 
 // Configuration
 const CONFIG = {
-    GOOGLE_AI_API_KEY: 'AIzaSyAWlsEVOzyf7J0dyxWItfQfdLhH7qEkIjI',
+    GOOGLE_AI_API_KEY: 'xxxx',
     GOOGLE_AI_API_URL: 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent',
     UPDATE_INTERVAL: 300000 // 5 minutes
 };
